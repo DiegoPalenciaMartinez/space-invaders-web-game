@@ -37,7 +37,7 @@ score tracking, sound effects and pause functionality.
 
 ## Getting Started
 
-Open https://fussed19.github.io/space-invaders-web-game/
+Open https://diegopalenciamartinez.github.io/space-invaders-web-game/
 
 If that isn`t working:
 
